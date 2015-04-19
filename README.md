@@ -1,2 +1,2 @@
 # td-cordova-admob-post
-Example exported TouchDevelop with Admob banner ad integration
+Example exported TouchDevelop script with Admob banner ad integration
